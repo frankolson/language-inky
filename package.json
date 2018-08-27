@@ -1,0 +1,9 @@
+{
+  "name": "language-inky",
+  "version": "0.0.1",
+  "description": "Inky language support in Atom",
+  "main": "index.js",
+  "repository": "https://github.com/frankolson/language-inky.git",
+  "author": "Will Olson",
+  "license": "MIT"
+}
